@@ -5,3 +5,8 @@
 - https://arxiv.org/abs/2207.07560
 - https://arxiv.org/abs/2104.08212
 - https://arxiv.org/abs/2210.14215#:~:text=Algorithm%20Distillation%20treats%20learning%20to,preceding%20learning%20histories%20as%20context.
+- https://arxiv.org/abs/2007.12640
+- https://arxiv.org/pdf/2004.12974.pdf
+- https://scholar.google.com/scholar?cites=10081666322309997474&as_sdt=2005&sciodt=0,5&hl=en#d=gs_qabs&t=1666732140905&u=%23p%3DF53blgSlP0oJ
+- VIMA | General Robot Manipulation with Multimodal Prompts (vimalabs.github.io)
+- [LM-Nav (google.com)](https://sites.google.com/view/lmnav)
