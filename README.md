@@ -4,15 +4,22 @@ Collection of resources on skill learning methods
 ## What is Skill Learning
 
 [Blogpost on Skill Learning (WIP)](https://daniel-ch-tan.github.io/blog/2022/skill-learning/)
+
 Tl;dr Learning reusable skills for downstream tasks.  
 
 ## Benchmarks
 
 Challenging control environments in which skill learning would be useful
+
+Robotics
 - MuJoCo: Multi-agent soccer environment [code](https://github.com/deepmind/dm_control/tree/main/dm_control/locomotion/soccer)
 - MuJoCo: CMU motion-capture imitation environment [code](https://github.com/deepmind/dm_control/tree/main/dm_control/locomotion/mocap)
 - IsaacGym: Humanoid adversarial motion prior [code](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs/blob/main/isaacgymenvs/tasks/humanoid_amp.py)
 - IsaacGym: Humanoid adversarial skill embedding [code](https://github.com/nv-tlabs/ASE)
+
+Games
+- Starcraft Multi-Agent Challenge [paper](https://arxiv.org/abs/1902.04043), [code](https://github.com/oxwhirl/smac), [v2](https://github.com/oxwhirl/smacv2)
+- MicroRTS-Py [paper](https://arxiv.org/abs/2105.13807), [code](https://github.com/Farama-Foundation/MicroRTS-Py)
 
 ## Theory
 Foundational theory on abstracting the action space
