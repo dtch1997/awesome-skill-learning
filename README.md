@@ -1,5 +1,4 @@
-# Awesome Skill- [Awesome Skill Learning](#awesome-skill-learning)
-- [Awesome Skill- Awesome Skill Learning](#awesome-skill--awesome-skill-learning)
+# Awesome Skill Learning
   - [What is Skill Learning](#what-is-skill-learning)
   - [Benchmarks](#benchmarks)
   - [Methods](#methods)
