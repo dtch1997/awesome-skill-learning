@@ -1,5 +1,15 @@
-# Awesome Skill Learning
-Collection of resources on skill learning methods
+# Awesome Skill- [Awesome Skill Learning](#awesome-skill-learning)
+- [Awesome Skill- Awesome Skill Learning](#awesome-skill--awesome-skill-learning)
+  - [What is Skill Learning](#what-is-skill-learning)
+  - [Benchmarks](#benchmarks)
+  - [Methods](#methods)
+    - [Skill Representation](#skill-representation)
+    - [Skill Learning](#skill-learning)
+    - [Skill Discovery](#skill-discovery)
+    - [Transferring Skills to Tasks](#transferring-skills-to-tasks)
+    - [Classical Robotics](#classical-robotics)
+
+Collection of resources on skill learning.
 
 ## What is Skill Learning
 
