@@ -37,6 +37,11 @@ Games
 - MicroRTS-Py [paper](https://arxiv.org/abs/2105.13807), [code](https://github.com/Farama-Foundation/MicroRTS-Py)
 
 
+## Datasets
+
+- [CMU Graphics Lab Motion Capture Database](http://mocap.cs.cmu.edu/), diverse motion capture data of humans 
+- [AcinoSet](https://github.com/African-Robotics-Unit/AcinoSet), motion capture data of cheetahs 
+
 ## Methods
 
 ### Skill Representation
